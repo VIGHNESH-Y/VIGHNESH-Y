@@ -29,7 +29,7 @@
 <h3 align="left">Support:</h3>
 <p><a href="https://www.buymeacoffee.com/vighneshy"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="vighneshy" /></a></p><br><br>
 
-<h3 align="left">Github Command Center</h3>
+<h3 align="left">Github Command Center:</h3>
 
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=VIGHNESH-Y&theme=dracula&hide_border=false&include_all_commits=true&count_private=true)
 
