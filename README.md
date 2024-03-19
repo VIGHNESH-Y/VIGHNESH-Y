@@ -1,7 +1,7 @@
-<h1 align="center">Howdy👋, I'm Vighnesh. Y</h1>
+<h1 align="center">Hi👋, I'm Vighnesh. Y</h1>
 <h3 align="center">Passionate Event Management and Programming Enthusiast 🚀 | Aspiring Entrepreneur | SRMIST Chennai Sophomore | Web3 Member - CodeChef 🚀</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=vighnesh-y&label=Profile%20views&color=0e75b6&style=flat" alt="vighnesh-y" /> </p>
+[![](https://visitcount.itsvg.in/api?id=VIGHNESH-Y&icon=2&color=0)](https://visitcount.itsvg.in)
 
 <p align="left"> <a href="https://twitter.com/viking_2512" target="blank"><img src="https://img.shields.io/twitter/follow/viking_2512?logo=twitter&style=for-the-badge" alt="viking_2512" /></a> </p>
 
