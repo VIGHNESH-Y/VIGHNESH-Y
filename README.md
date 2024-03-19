@@ -31,6 +31,8 @@
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=vighnesh-y&show_icons=true&theme=dark&locale=en&layout=compact" alt="vighnesh-y" /></p>
 
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=vighnesh-y&show_icons=true&theme=dark&locale=en&layout=compact](https://github-profile-trophy.vercel.app/?username=VIGHNESH-Y&theme=dracula&no-frame=false&no-bg=false&margin-w=4)" alt="vighnesh-y" /></p>
+
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=vighnesh-y&show_icons=true&theme=dark&locale=en" alt="vighnesh-y" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=vighnesh-y&theme=dark" alt="vighnesh-y" /></p>
