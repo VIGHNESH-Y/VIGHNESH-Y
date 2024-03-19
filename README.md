@@ -28,5 +28,3 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=vighnesh-y&show_icons=true&theme=dark&locale=en" alt="vighnesh-y" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=vighnesh-y&theme=dark" alt="vighnesh-y" /></p>
-
-![snake gif](https://github.com/VIGHNESH-Y/VIGHNESH-Y/blob/output/github-contribution-grid-snake.gif)
