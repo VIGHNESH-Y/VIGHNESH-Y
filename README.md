@@ -1,5 +1,5 @@
 # 💫 About Me:
-<h1 align="center">Hi👋, I'm Vighnesh. Y</h1><br><h3 align="center">Passionate Event Management and Programming Enthusiast 🚀 | Aspiring Entrepreneur | SRMIST Chennai Sophomore | Web3 Member - CodeChef 🚀</h3><br><br>- 🌱 I’m currently learning **Solidity,Rust,ReactNative**<br><br>- 💬 Ask me about **Javascript,Python,MongoDB,MySQL**<br><br>- 📫 How to reach me **vighnesh2504@gmail.com**<br><br>- ⚡ Fun fact **Reading Errors Solves 99% of the bugs.**
+<h1 align="center">Hi👋, I'm Vighnesh. Y</h1><br><h3 align="center">Passionate Event Management and Programming Enthusiast 🚀 | Aspiring Entrepreneur | SRMIST Chennai Sophomore | Web3 Member - CodeChef 🚀</h3><br><br>- 🌱 I’m currently learning **Solidity,Rust,ReactNative**<br><br>- 💬 Ask me about **Javascript,Python,MongoDB,MySQL** <br><br>- 📫 How to reach me **vighnesh2504@gmail.com**<br><br>- ⚡ Fun fact **Reading Errors Solves 99% of the bugs.**
 
 
 ## 🌐 Socials:
