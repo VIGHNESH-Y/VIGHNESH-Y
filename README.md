@@ -36,3 +36,7 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=vighnesh-y&show_icons=true&theme=dark&locale=en" alt="vighnesh-y" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=vighnesh-y&theme=dark" alt="vighnesh-y" /></p>
+
+![](https://github-readme-stats.vercel.app/api?username=VIGHNESH-Y&theme=dracula&hide_border=false&include_all_commits=true&count_private=true)<br/>
+![](https://github-readme-streak-stats.herokuapp.com/?user=VIGHNESH-Y&theme=dracula&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=VIGHNESH-Y&theme=dracula&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
