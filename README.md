@@ -29,14 +29,6 @@
 <h3 align="left">Support:</h3>
 <p><a href="https://www.buymeacoffee.com/vighneshy"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="vighneshy" /></a></p><br><br>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=vighnesh-y&show_icons=true&theme=dark&locale=en&layout=compact" alt="vighnesh-y" /></p>
-
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=vighnesh-y&show_icons=true&theme=dark&locale=en&layout=compact](https://github-profile-trophy.vercel.app/?username=VIGHNESH-Y&theme=dracula&no-frame=false&no-bg=false&margin-w=4)" alt="vighnesh-y" /></p>
-
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=vighnesh-y&show_icons=true&theme=dark&locale=en" alt="vighnesh-y" /></p>
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=vighnesh-y&theme=dark" alt="vighnesh-y" /></p>
-
 ![](https://github-readme-stats.vercel.app/api?username=VIGHNESH-Y&theme=dracula&hide_border=false&include_all_commits=true&count_private=true)<br/>
 ![](https://github-readme-streak-stats.herokuapp.com/?user=VIGHNESH-Y&theme=dracula&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=VIGHNESH-Y&theme=dracula&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
