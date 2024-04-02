@@ -1,4 +1,4 @@
-<h1 align="center">Hi👋, I'm Vighnesh. Y</h1>
+<h1 align="center">Hi👋, I'm Vighnesh Y</h1>
 <h3 align="center">Passionate Event Management & Programming Enthusiast 🚀 | Aspiring Entrepreneur | SRMIST Chennai Sophomore | Web3 Member - CodeChef 🚀</h3>
 
 
