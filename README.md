@@ -1,5 +1,5 @@
 <h1 align="center">Hi👋, I'm Vighnesh Y</h1>
-<h3 align="center">Passionate Event Management & Programming Enthusiast 🚀 | Aspiring Entrepreneur | SRMIST Chennai Sophomore | Web3 Member - CodeChef 🚀</h3>
+<h3 align="center">Passionate Event Management & Programming Enthusiast 🚀 | Aspiring Entrepreneur | SRMIST Chennai Pre-Final Year | Web3 Member - CodeChef 🚀</h3>
 
 
 - 🌱 I’m currently learning **Solidity,Rust,ReactNative**
