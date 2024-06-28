@@ -26,7 +26,7 @@
 
 ![](https://github-profile-trophy.vercel.app/?username=VIGHNESH-Y&theme=dracula&no-frame=false&no-bg=false&margin-w=4)
 
-### 🌠 Top Contributions 🌠
+### 🌠 Top Contribution 🌠
 
 ![](https://github-contributor-stats.vercel.app/api?username=VIGHNESH-Y&limit=5&theme=dracula&combine_all_yearly_contributions=true)
 
